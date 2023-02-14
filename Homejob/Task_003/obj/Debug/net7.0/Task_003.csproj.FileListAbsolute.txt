@@ -1,0 +1,15 @@
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\obj\Debug\net7.0\Task_003.csproj.AssemblyReference.cache
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\obj\Debug\net7.0\Task_003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\obj\Debug\net7.0\Task_003.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\obj\Debug\net7.0\Task_003.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\obj\Debug\net7.0\Task_003.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\bin\Debug\net7.0\Task_003.exe
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\bin\Debug\net7.0\Task_003.deps.json
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\bin\Debug\net7.0\Task_003.runtimeconfig.json
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\bin\Debug\net7.0\Task_003.dll
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\bin\Debug\net7.0\Task_003.pdb
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\obj\Debug\net7.0\Task_003.dll
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\obj\Debug\net7.0\refint\Task_003.dll
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\obj\Debug\net7.0\Task_003.pdb
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\obj\Debug\net7.0\Task_003.genruntimeconfig.cache
+C:\Users\Pavel\Desktop\GeekBrains\Seminar11\Homejob\Task_003\obj\Debug\net7.0\ref\Task_003.dll
